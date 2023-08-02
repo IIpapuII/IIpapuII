@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi!, My name is Wilmer Serrano.<br><br>-> Backend Developer<br>-> Fan at Linux and open software<br>-> I work in Gelvez Dsitribuciones <br><br><-- My studies --><br>-> System Engineer<br>-> Structured Cabling Technician<br><br><-- What I like --><br>-> Anime <br>-> Video Game<br>-> Full time Dev<br><br>
+ Hi!, My name is Wilmer Serrano.<br><br>-> Backend Developer<br>-> Fan at Linux and open software<br>-> working on personal projects <br><br><-- My studies --><br>-> System Engineer<br>-> Structured Cabling Technician<br><br><-- What I like --><br>-> Anime <br>-> Video Game<br>-> Full time Dev<br><br>
 
 
 ## 🌐 Socials:
